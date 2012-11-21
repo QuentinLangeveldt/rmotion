@@ -1,16 +1,17 @@
 RMotion
 * RMotion provides a simple interface to build motion detection software in ruby.
+* http://www.youtube.com/watch?v=IsNLzhu_BKM
 
 Author
 * Riccardo Cecolin
-* rikiji at playkanji dot com
-* http://www.rikiji.it
+* r at rikiji dot it
+* http://rikiji.it
 
 Documentation
 * You need libopencv-dev, libhighgui-dev and libfftw3-dev to compile this extension.
 * For usage examples check examples/first.rb and examples/second.rb
-* http://www.rikiji.it/post/19
-* http://www.rikiji.it/post/20
+* http://rikiji.it/post/19
+* http://rikiji.it/post/20
 
 Require the lib, instantiate the main object and print default options:
 
